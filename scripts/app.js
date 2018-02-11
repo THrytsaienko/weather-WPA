@@ -1,18 +1,3 @@
-// Copyright 2016 Google Inc.
-// 
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-// 
-//      http://www.apache.org/licenses/LICENSE-2.0
-// 
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
-
-
 (function () {
   'use strict';
 
@@ -296,17 +281,17 @@
    * discussion.
    */
   var initialWeatherForecast = {
-    key: '2459115',
-    label: 'New York, NY',
-    created: '2016-07-22T01:00:00Z',
+    key: '924938',
+    label: 'Kyiv, Ukraine',
+    created: '2018-02-11T01:00:00Z',
     channel: {
       astronomy: {
-        sunrise: "5:43 am",
-        sunset: "8:21 pm"
+        sunrise: "7:16 am",
+        sunset: "5:09 pm"
       },
       item: {
         condition: {
-          text: "Windy",
+          text: "Cloudy",
           date: "Thu, 21 Jul 2016 09:00 PM EDT",
           temp: 56,
           code: 24
